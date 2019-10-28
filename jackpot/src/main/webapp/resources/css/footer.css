@@ -1,0 +1,33 @@
+.footer_txt1 {
+    font-size: 20px;
+    font-family: 'PT Serif', serif;
+                
+    margin-bottom: 5px;
+}
+            
+.footer_txt2 {
+    font-size: 14px;
+                
+    color: dimgrey;
+    font-family: 'Hind', sans-serif;
+}
+            
+.footer_txt3 {
+    font-size: 13px;
+                
+    color: dimgrey;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+            
+#footer {
+    height: 100px;
+                
+    text-align: center;
+    padding: 40px 0px 25px;
+                
+    background-color: rgb(243,243,243);
+                
+    border-top: solid;
+    border-top-width: thin;
+    border-top-color: gainsboro;
+}
